@@ -1,1 +1,3 @@
 test github
+- clone từ github
+- push từ demo
